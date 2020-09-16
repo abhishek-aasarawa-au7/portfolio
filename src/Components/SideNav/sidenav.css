@@ -21,6 +21,7 @@
 .subtitle {
   margin-top: 0;
   font-style: italic;
+  font-family: "Lora", serif;
 }
 
 .sections-list::before,

@@ -13,6 +13,7 @@ export const Portfolio = ({
   about,
   skills,
   projects,
+  contactInfo,
 }) => {
   return (
     <div className="portfolio-container">
@@ -27,6 +28,7 @@ export const Portfolio = ({
           about={about}
           skills={skills}
           projects={projects}
+          contactInfo={contactInfo}
         />
       </div>
     </div>
